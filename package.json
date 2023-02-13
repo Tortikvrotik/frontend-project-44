@@ -23,6 +23,8 @@
     "url": "https://github.com/Tortikvrotik/frontend-project-44/issues"
   },
   "homepage": "https://github.com/Tortikvrotik/frontend-project-44#readme",
-  "type": "module"
+  "type": "module",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
 }
-
