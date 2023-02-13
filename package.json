@@ -1,0 +1,27 @@
+{
+  "type": "module",
+  "name": "@hexlet/code",
+  "version": "1.0.0",
+  "description": "trying to the first project",
+  "main": "bin/brain-games.js",
+  "bin": {
+    "code": "bin/brain-games.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tortikvrotik/frontend-project-44.git"
+  },
+  "keywords": [
+    "js",
+    "lowskill"
+  ],
+  "author": "Vyacheslav Erey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tortikvrotik/frontend-project-44/issues"
+  },
+  "homepage": "https://github.com/Tortikvrotik/frontend-project-44#readme"
+}
